@@ -1,37 +1,16 @@
+# Hi there! 👋  
 
-## 🚀 About Me
-I'm abbas davarpanah GNU/Linux User
+I'm Abbas, a **Free Software enthusiast** and **GNU/Linux sysadmin/user** actively promoting FOSS culture through local communities in Iran (especially Shiraz).  
 
-Active Tech Community 
+🔧 **Skills & Interests**:  
+- **SysAdmin**: Linux infrastructure.  
+- **DevOps**: Passionate about CI/CD, containers, and open-source tooling.  
+- **Development**: Python | Frontend (HTML/CSS/JS)  
+- **Fediverse & Decentralization**: Matrix, Mastodon, and decentralized tech.  
 
+📢 **Let’s Talk**:  
+- **Matrix**: [@abbas_dp:matrix.org](https://matrix.to/#/@abbas_dp:matrix.org) (via [SchildiChat](https://schildi.chat/))  
+- **Mastodon**: [@abbas_dp@techhub.social](https://techhub.social/@abbas_dp)  
+- **Email**: [abbasdp@proton.me](mailto:abbasdp@proton.me)  
 
-
-
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-davarpanah-498013170/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abbas_dp)
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
-## 🛠 Skills
-....
-
+🌟 Happy hacking!
