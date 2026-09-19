@@ -1,0 +1,12 @@
+{
+  "name": "abbasdp profile README",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "grip-preview",
+      "command": "\"$HOME/.venvs/grip/bin/grip\" README.md 0.0.0.0:6419"
+    }
+  ],
+  "ports": [6419]
+}
